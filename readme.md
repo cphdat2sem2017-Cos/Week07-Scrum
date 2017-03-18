@@ -69,4 +69,5 @@ Scrum is a management framework that describes how teams can work together to de
 
 ## Readings
 Henrik Kniberg - Scrum and XP from the Trenches<br>
+[Complexity](study/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf)
 https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2
