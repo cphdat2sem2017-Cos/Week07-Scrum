@@ -15,7 +15,7 @@ Scrum is a management framework that describes how teams can work together to de
 		<th>Day</th>
 		<th>Topic</th>
 		<th>Details</th>
-		<th>Litterature</th>
+		<th>Literature</th>
     </tr>
 	<tr>
 		<td>Monday</td>
