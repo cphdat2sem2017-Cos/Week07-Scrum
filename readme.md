@@ -26,11 +26,11 @@ Scrum is a management framework that describes how teams can work together to de
 		Make team contracts / Establish team contract for Fog project/Start thinking about product backlog
 		</td>
 		<td>Pages 1-13
-		*[Waterfall model](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
-		[Iterative model](https://www.tutorialspoint.com/sdlc/sdlc_iterative_model.htm)
-		[Agile](https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm)
-		[Agile Manifesto](https://assets.uits.iu.edu/pdf/Agile-Manifesto.pdf)
-		[Scrum](http://scrumtrainingseries.com/)
+		Waterfall model : https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm
+		Iterative model :https://www.tutorialspoint.com/sdlc/sdlc_iterative_model.htm
+		Agile mode : https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm
+		Agile Manifesto : https://assets.uits.iu.edu/pdf/Agile-Manifesto.pdf
+		Scrum :http://scrumtrainingseries.com/
 		</td>	
 	</tr>
 	<tr>
