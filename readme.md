@@ -23,9 +23,15 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>
 		How to work with agile, iterative software development using Scrum.<br>
 		Why / What / How?<br>
-		Make team contracts / Establish team contract for Fog project
+		Make team contracts / Establish team contract for Fog project/Start thinking about product backlog
 		</td>
-		<td>Pages 1-13</td>	
+		<td>Pages 1-13
+		[Waterfall model](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
+		[Iterative model](https://www.tutorialspoint.com/sdlc/sdlc_iterative_model.htm)
+		[Agile](https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm)
+		[Agile Manifesto](https://assets.uits.iu.edu/pdf/Agile-Manifesto.pdf)
+		[Scrum](http://scrumtrainingseries.com/)
+		</td>	
 	</tr>
 	<tr>
 		<td>Tuesday</td>
