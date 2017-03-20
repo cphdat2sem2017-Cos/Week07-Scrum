@@ -31,6 +31,7 @@ Scrum is a management framework that describes how teams can work together to de
 		Agile mode : https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm
 		Agile Manifesto : https://assets.uits.iu.edu/pdf/Agile-Manifesto.pdf
 		Scrum :http://scrumtrainingseries.com/
+		Blog : http://blog.crisp.se/author/henrikkniberg
 		</td>	
 	</tr>
 	<tr>
