@@ -40,7 +40,8 @@ Scrum is a management framework that describes how teams can work together to de
 		<td>
 		How to define requirements as user stories and how to build a Product Backlog containing stories based on estimation and prioritization.
 		</td>
-		<td>Pages 14-50</td>	
+		<td>Pages 14-50
+		Strategies for breaking down user stories : http://blog.agilistic.nl/10-useful-strategies-for-breaking-down-large-user-stories-and-a-cheatsheet/</td>	
 	</tr>
 	<tr>
 		<td>Wednesday</td>
@@ -77,3 +78,4 @@ Scrum is a management framework that describes how teams can work together to de
 ## Readings
 Henrik Kniberg - Scrum and XP from the Trenches<br>
 [Scrum](study/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf)
+[Agile at Work: Planning with Agile User Stories](https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Planning-Agile-User-Stories/175074-2.html)
