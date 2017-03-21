@@ -51,7 +51,9 @@ Scrum is a management framework that describes how teams can work together to de
 		</td>
 		<td>
 		Pages 51-68 & 75-92<br>
-		Video: https://www.youtube.com/watch?v=502ILHjX9EE</td>	
+		Video: https://www.youtube.com/watch?v=502ILHjX9EE <br>
+		<a href="study/Backlogs.pdf">Backlogs</a><br>
+		<a href="study/ProductBacklog.pdf">ProductBacklog</a><br></td>	
 	</tr>
 	<tr>
 		<td>Thursday</td>
@@ -77,5 +79,6 @@ Scrum is a management framework that describes how teams can work together to de
 
 ## Readings
 Henrik Kniberg - Scrum and XP from the Trenches<br>
-[Scrum](study/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf)
-[Agile at Work: Planning with Agile User Stories](https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Planning-Agile-User-Stories/175074-2.html)
+[Scrum](study/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf)<br>
+[Agile at Work: Planning with Agile User Stories](https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Planning-Agile-User-Stories/175074-2.html)<br>
+<a href="study/ProjectPlan.pdf">Project Plan</a><br>
