@@ -53,7 +53,7 @@ Scrum is a management framework that describes how teams can work together to de
 		Pages 51-68 & 75-92<br>
 		Video: https://www.youtube.com/watch?v=502ILHjX9EE <br>
 		<a href="study/Backlogs.pdf">Backlogs</a><br>
-		<a href="study/ProductBacklog.pdf">ProductBacklog</a><br></td>	
+		<a href="study/ProductBacklog.pdf">Starting point of ProductBacklog for Fog project</a><br></td>	
 	</tr>
 	<tr>
 		<td>Thursday</td>
