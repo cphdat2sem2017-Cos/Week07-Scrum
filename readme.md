@@ -73,7 +73,7 @@ Scrum is a management framework that describes how teams can work together to de
 		Done group wise with teachers & Alpha Solutions.<br>
 		There will be a plan with meeting time for groups.
 		</td>
-		<td></td>	
+		<td> <a href="study/Meeting time.pdf">Meetng Time for Friday </a><br></td>	
 	</tr>
 </table>
 
