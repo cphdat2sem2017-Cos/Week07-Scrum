@@ -62,7 +62,7 @@ Scrum is a management framework that describes how teams can work together to de
 		Introduction to scrum tools<br>
 		Group work with product backlog grooming & prioritization.
 		</td>
-		<a href="https://www.lynda.com/Business-Skills-tutorials/Show-progress-Excel/434737/552744-4.html?org=cphbusiness.">Excel Tool</a><br>
+		[Exel tool for Scrum](https://www.lynda.com/Business-Skills-tutorials/Show-progress-Excel/434737/552744-4.html?org=cphbusiness)<br>
 		<td></td>	
 	</tr>
 	<tr>
