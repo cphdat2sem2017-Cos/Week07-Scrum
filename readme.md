@@ -63,7 +63,8 @@ Scrum is a management framework that describes how teams can work together to de
 		Group work with product backlog grooming & prioritization.
 		</td>
 		<td> 
-		<a href="https://www.lynda.com/Business-Skills-tutorials/Show-progress-Excel/434737/552744-4.html?org=cphbusiness">Excel tool for scrum </a></td>	
+		<a href="https://www.lynda.com/Business-Skills-tutorials/Show-progress-Excel/434737/552744-4.html?org=cphbusiness">Excel tool for scrum </a><br>
+		Please see the e-mail i sent through moodle. I cannot be there. Got to A class(PM) - the students their will do a demo. Also Tine said she will help you with user stories after the demo<br></td>	</td>	
 	</tr>
 	<tr>
 		<td>Friday</td>
@@ -74,8 +75,8 @@ Scrum is a management framework that describes how teams can work together to de
 		Done group wise with teachers & Alpha Solutions.<br>
 		There will be a plan with meeting time for groups.
 		</td>
-		<td> <a href="study/Meeting time.pdf">Meetng Time for Friday </a><br><a href="https://www.lynda.com/Business-Skills-tutorials/Agile-Product-Owner-Role/471657-2.html">Product Owner </a><br>
-		Please see the e-mail i sent through moodle. I cannot be there. Got to A class(PM) - the students their will do a demo. Also Tine said she will help you with user stories after the demo<br></td>	
+		<td> <a href="study/Meeting time.pdf">Meetng Time for Friday </a><br><a href="https://www.lynda.com/Business-Skills-tutorials/Agile-Product-Owner-Role/471657-2.html">Product Owner </a>
+		
 	</tr>
 </table>
 
