@@ -77,7 +77,7 @@ Scrum is a management framework that describes how teams can work together to de
 		</td>
 		<td> <a href="study/Meeting time.pdf">Meetng Time for Friday </a><br><a href="https://www.lynda.com/Business-Skills-tutorials/Agile-Product-Owner-Role/471657-2.html">Product Owner </a>
 		
-	</tr>
+	
 </table>
 
 ## Readings
