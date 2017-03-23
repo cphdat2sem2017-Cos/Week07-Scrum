@@ -74,7 +74,8 @@ Scrum is a management framework that describes how teams can work together to de
 		Done group wise with teachers & Alpha Solutions.<br>
 		There will be a plan with meeting time for groups.
 		</td>
-		<td> <a href="study/Meeting time.pdf">Meetng Time for Friday </a><br><a href="https://www.lynda.com/Business-Skills-tutorials/Agile-Product-Owner-Role/471657-2.html">Product Owner </a></td>	
+		<td> <a href="study/Meeting time.pdf">Meetng Time for Friday </a><br><a href="https://www.lynda.com/Business-Skills-tutorials/Agile-Product-Owner-Role/471657-2.html">Product Owner </a>
+		Please see the e-mail i sent through moodle. I cannot be there. Got to A class(PM) - the students their will do a demo. Also Tine said she will help you with user stories after the demo<br></td>	
 	</tr>
 </table>
 
